@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 
-const footer = () => {
+const Footer = () => {
   return (
     <div>
       <footer className='text-white py-4 ng black'>
@@ -30,4 +30,4 @@ const footer = () => {
   )
 }
 
-export default footer
+export default Footer
